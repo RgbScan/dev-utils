@@ -23,4 +23,4 @@ echo "nameserver 1.1.1.1" >> /etc/resolv.conf
  - `chmod +x add_dns_google.sh`
  - `chmod 755 add_dns_google.sh`
 3. Выполнить файл
-
+- `sudo ./add_dns_google.sh`
